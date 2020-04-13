@@ -3,7 +3,7 @@
 
 
 
-    // stiky menu
+    // stiky menu start
 
     $(window).on('scroll', function () {
         var scroll = $(window).scrollTop();
@@ -15,6 +15,8 @@
     });
 
     
+
+     // stiky menu end
 
 
 })(jQuery);
